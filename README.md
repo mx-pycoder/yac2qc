@@ -1,6 +1,6 @@
 # yac2qc
 
-yet another csv 2 qif convertor
+yet another csv 2 qif converter
 
 ## about
 
